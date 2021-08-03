@@ -1,10 +1,15 @@
 # Avaliacao_Algoritmos_Supervisionados_Classificacao
 
-Algoritmos Supervisionados Utilizados (Sklearn):
+* Algoritmos Supervisionados Utilizados (Sklearn):
 
-* Árvores de Decisão
-* Florestas Randômicas
-* KNN
-* Regressão Logística 
-* SVM
-* Redes Neurais
+* [x] Árvores de Decisão
+* [x] Florestas Randômicas
+* [x] KNN
+* [x] Regressão Logística 
+* [x] SVM
+* [x] Redes Neurais
+
+## Tecnologias Utilizadas
+
+- [Python](https://www.python.org/)
+
